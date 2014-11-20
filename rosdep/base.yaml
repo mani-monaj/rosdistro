@@ -934,6 +934,10 @@ kgraphviewer:
     portage:
       packages: [media-gfx/kgraphviewer]
   ubuntu: [kgraphviewer]
+kwalify:
+  debian: [kwalify]
+  fedora: [rubygem-kwalify]
+  ubuntu: [kwalify]
 language-pack-de:
   ubuntu: [language-pack-de]
 language-pack-en:
